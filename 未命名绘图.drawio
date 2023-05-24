@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T02:39:35.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="Lo9mPjbEc9xj-oDRTbpG" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T02:42:48.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="GV7AQmx4sTh37EUcw7Gn" version="21.3.2" type="github">
   <diagram name="第 1 页" id="MV3o43IdLmot7RDqP8pI">
     <mxGraphModel dx="1152" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,28 @@
           <mxGeometry x="140" y="127" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="170" width="990" height="440" as="geometry" />
+          <mxGeometry x="50" y="170" width="980" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="870" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="870" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="630" width="870" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-5" value="行业端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-6" value="监管端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-7" value="发展服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-10" value="地方金融统一监管平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="25" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
