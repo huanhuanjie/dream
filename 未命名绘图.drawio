@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T02:51:01.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="rnUZzEc4Tj-scR1YYRFF" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T02:53:36.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="eRneA8jYOHGLYifOml1h" version="21.3.2" type="github">
   <diagram name="第 1 页" id="MV3o43IdLmot7RDqP8pI">
-    <mxGraphModel dx="616" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="510" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,14 @@
         <mxCell id="aRTXH67dhM7J8I6KlZtX-23" value="第三方机构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="970" y="113" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-24" value="爱耍" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-24" value="工作台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-25" value="公司信息查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-26" value="通讯录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="250" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
