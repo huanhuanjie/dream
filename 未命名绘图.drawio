@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:45:47.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="efki73fxwszBve9BETwn" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:47:55.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="lLvh0rThGMW56IlYapyR" version="21.3.4" type="github">
   <diagram name="第 1 页" id="MV3o43IdLmot7RDqP8pI">
-    <mxGraphModel dx="906" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="Glt5fxQ_8E8wL3YPpG3F-7" value="&lt;font color=&quot;#9dc3e6&quot;&gt;金融监管局用户&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;arcSize=12;rounded=1;imageWidth=24;" parent="1" vertex="1">
           <mxGeometry x="140" y="100" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="65" y="160" width="1565" height="770" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="130" y="186.5" width="1490" height="203.5" as="geometry" />
@@ -130,18 +127,6 @@
         <mxCell id="aRTXH67dhM7J8I6KlZtX-92" value="数据查询" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="424" y="520" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-146" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
-          <mxGeometry x="783.5" y="620" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-147" value="机构档案" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="858.5" y="620" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-148" value="机构档案查询" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="793.5" y="660" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-150" value="机构信息维护" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="938.5" y="660" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-170" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
           <mxGeometry x="187" y="803" width="340" height="110" as="geometry" />
         </mxCell>
@@ -156,21 +141,6 @@
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-177" value="风险预警" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="215" y="859" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-211" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
-          <mxGeometry x="546.5" y="738" width="233.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-212" value="&lt;font color=&quot;#9dc3e6&quot;&gt;统计分析&lt;/font&gt;" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="615" y="749" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-213" value="统计简报" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="569" y="779" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-214" value="上报银保监" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="629" y="779" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-215" value="行业统计" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="714" y="779" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-219" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
           <mxGeometry x="1210" y="739" width="290" height="110" as="geometry" />
@@ -391,11 +361,26 @@
         <mxCell id="vB-8h79mQ8a8GxiMmBp1-141" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;机构档案查询&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="677" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vB-8h79mQ8a8GxiMmBp1-142" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;各业态&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;子驾驶舱&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vB-8h79mQ8a8GxiMmBp1-142" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;机构信息维护&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="722" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vB-8h79mQ8a8GxiMmBp1-143" value="&lt;font color=&quot;#9dc3e6&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;机构档案&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="365" y="612" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vB-8h79mQ8a8GxiMmBp1-151" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" vertex="1" parent="1">
+          <mxGeometry x="515" y="602" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vB-8h79mQ8a8GxiMmBp1-152" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;行业统计&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="700" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vB-8h79mQ8a8GxiMmBp1-153" value="&lt;font color=&quot;#9dc3e6&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;统计分析&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="530" y="612" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vB-8h79mQ8a8GxiMmBp1-154" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;统计简报&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="549" y="660" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vB-8h79mQ8a8GxiMmBp1-158" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;上报银保监&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="740" width="111" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
