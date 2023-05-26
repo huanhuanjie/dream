@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T08:19:56.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="VI9S6JwgMxiFDXglsPc2" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T08:20:31.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="YPodaC4_CPqq2QC7Bzti" version="21.3.4" type="github">
   <diagram name="第 1 页" id="MV3o43IdLmot7RDqP8pI">
-    <mxGraphModel dx="459" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="383" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,14 +142,8 @@
         <mxCell id="aRTXH67dhM7J8I6KlZtX-84" value="待办事项" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="400" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-85" value="&lt;p class=&quot;MsoNormal&quot;&gt;机构数量分布&lt;/p&gt;" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="aRTXH67dhM7J8I6KlZtX-85" value="&lt;p class=&quot;MsoNormal&quot;&gt;在办事项&lt;/p&gt;" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="400" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-86" value="&lt;p class=&quot;MsoNormal&quot;&gt;经营发展情况&lt;/p&gt;" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="335" y="400" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-87" value="&lt;p class=&quot;MsoNormal&quot;&gt;行业贡献情况&lt;/p&gt;" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="430" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-90" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
           <mxGeometry x="412.5" y="353" width="220" height="110" as="geometry" />
@@ -191,7 +185,7 @@
           <mxGeometry x="880" y="430" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-114" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
-          <mxGeometry x="1102.5" y="360" width="220" height="110" as="geometry" />
+          <mxGeometry x="1102.5" y="354" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-115" value="数据查询" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1167.5" y="360" width="90" height="30" as="geometry" />
@@ -209,7 +203,7 @@
           <mxGeometry x="1112.5" y="430" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-122" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
-          <mxGeometry x="1332.5" y="360" width="220" height="110" as="geometry" />
+          <mxGeometry x="1332.5" y="353" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-123" value="监管事项" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1397.5" y="360" width="90" height="30" as="geometry" />
@@ -546,9 +540,6 @@
         </mxCell>
         <mxCell id="vB-8h79mQ8a8GxiMmBp1-5" value="工作动态" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="83" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vB-8h79mQ8a8GxiMmBp1-7" value="政策法规" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337" y="370" width="83" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vB-8h79mQ8a8GxiMmBp1-9" value="意见信箱" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="220" width="80" height="20" as="geometry" />
