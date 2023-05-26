@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:56:49.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="UUPqnA9RDVxNo2xkKa0F" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:56:56.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="RgC_PCoN5q_ANXT-s7e7" version="21.3.4" type="github">
   <diagram name="第 1 页" id="MV3o43IdLmot7RDqP8pI">
     <mxGraphModel dx="1057" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
           <mxGeometry x="1075" y="722" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vB-8h79mQ8a8GxiMmBp1-205" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" vertex="1" parent="1">
-          <mxGeometry x="1393" y="603.5" width="261.5" height="170" as="geometry" />
+          <mxGeometry x="1393" y="603.5" width="227" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vB-8h79mQ8a8GxiMmBp1-206" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;压力测试&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1415" y="720" width="80" height="20" as="geometry" />
