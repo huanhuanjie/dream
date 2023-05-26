@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:25:46.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="DQ7NppMmm7LkCYaXmfoS" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:26:08.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="eSOwt43pKzel_qg1FDWA" version="21.3.4" type="github">
   <diagram name="第 1 页" id="MV3o43IdLmot7RDqP8pI">
     <mxGraphModel dx="993" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,18 +138,6 @@
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-92" value="数据查询" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="424" y="520" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-98" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
-          <mxGeometry x="642.5" y="473" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-99" value="&lt;font color=&quot;#9dc3e6&quot;&gt;驾驶舱&lt;/font&gt;" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="707.5" y="479" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-100" value="总驾驶舱" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="652.5" y="519" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aRTXH67dhM7J8I6KlZtX-101" value="各业态子驾驶舱" style="text;html=1;strokeColor=#9DC3E6;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="712.5" y="519" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aRTXH67dhM7J8I6KlZtX-114" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9DC3E6;" parent="1" vertex="1">
           <mxGeometry x="1102.5" y="473" width="220" height="110" as="geometry" />
